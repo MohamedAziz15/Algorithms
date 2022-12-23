@@ -1,0 +1,45 @@
+D:\Client Creadit project\insertion sort Aziz\bin\Debug\insertion sort Aziz.exe.config
+D:\Client Creadit project\insertion sort Aziz\bin\Debug\insertion sort Aziz.exe
+D:\Client Creadit project\insertion sort Aziz\bin\Debug\insertion sort Aziz.pdb
+D:\Client Creadit project\insertion sort Aziz\bin\Debug\MetroFramework.Design.dll
+D:\Client Creadit project\insertion sort Aziz\bin\Debug\MetroFramework.dll
+D:\Client Creadit project\insertion sort Aziz\bin\Debug\MetroFramework.Fonts.dll
+D:\Client Creadit project\insertion sort Aziz\obj\Debug\insertion sort Aziz.csproj.AssemblyReference.cache
+D:\Client Creadit project\insertion sort Aziz\obj\Debug\insertion sort Aziz.csproj.SuggestedBindingRedirects.cache
+D:\Client Creadit project\insertion sort Aziz\obj\Debug\insertion_sort_Aziz.Properties.Resources.resources
+D:\Client Creadit project\insertion sort Aziz\obj\Debug\insertion sort Aziz.csproj.GenerateResource.cache
+D:\Client Creadit project\insertion sort Aziz\obj\Debug\insertion sort Aziz.csproj.CoreCompileInputs.cache
+D:\Client Creadit project\insertion sort Aziz\obj\Debug\insertion sort Aziz.csproj.CopyComplete
+D:\Client Creadit project\insertion sort Aziz\obj\Debug\insertion sort Aziz.exe
+D:\Client Creadit project\insertion sort Aziz\obj\Debug\insertion sort Aziz.pdb
+D:\Client Creadit project\insertion sort Aziz\obj\Debug\InsertionSort.Form1.resources
+C:\Users\user\Desktop\insertion sort Aziz\bin\Debug\insertion sort Aziz.exe.config
+C:\Users\user\Desktop\insertion sort Aziz\bin\Debug\insertion sort Aziz.exe
+C:\Users\user\Desktop\insertion sort Aziz\bin\Debug\insertion sort Aziz.pdb
+C:\Users\user\Desktop\insertion sort Aziz\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\insertion sort Aziz\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\insertion sort Aziz\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\insertion sort Aziz\obj\Debug\insertion sort Aziz.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\insertion sort Aziz\obj\Debug\insertion sort Aziz.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\insertion sort Aziz\obj\Debug\InsertionSort.Form1.resources
+C:\Users\user\Desktop\insertion sort Aziz\obj\Debug\insertion_sort_Aziz.Properties.Resources.resources
+C:\Users\user\Desktop\insertion sort Aziz\obj\Debug\insertion sort Aziz.csproj.GenerateResource.cache
+C:\Users\user\Desktop\insertion sort Aziz\obj\Debug\insertion sort Aziz.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\insertion sort Aziz\obj\Debug\insertion sort Aziz.csproj.CopyComplete
+C:\Users\user\Desktop\insertion sort Aziz\obj\Debug\insertion sort Aziz.exe
+C:\Users\user\Desktop\insertion sort Aziz\obj\Debug\insertion sort Aziz.pdb
+E:\ARTIFICIAL INTELLEGENCE\Semester -5\ALGORITHMS\insertion sort Aziz\bin\Debug\insertion sort Aziz.exe.config
+E:\ARTIFICIAL INTELLEGENCE\Semester -5\ALGORITHMS\insertion sort Aziz\bin\Debug\insertion sort Aziz.exe
+E:\ARTIFICIAL INTELLEGENCE\Semester -5\ALGORITHMS\insertion sort Aziz\bin\Debug\insertion sort Aziz.pdb
+E:\ARTIFICIAL INTELLEGENCE\Semester -5\ALGORITHMS\insertion sort Aziz\bin\Debug\MetroFramework.Design.dll
+E:\ARTIFICIAL INTELLEGENCE\Semester -5\ALGORITHMS\insertion sort Aziz\bin\Debug\MetroFramework.dll
+E:\ARTIFICIAL INTELLEGENCE\Semester -5\ALGORITHMS\insertion sort Aziz\bin\Debug\MetroFramework.Fonts.dll
+E:\ARTIFICIAL INTELLEGENCE\Semester -5\ALGORITHMS\insertion sort Aziz\obj\Debug\insertion sort Aziz.csproj.AssemblyReference.cache
+E:\ARTIFICIAL INTELLEGENCE\Semester -5\ALGORITHMS\insertion sort Aziz\obj\Debug\insertion sort Aziz.csproj.SuggestedBindingRedirects.cache
+E:\ARTIFICIAL INTELLEGENCE\Semester -5\ALGORITHMS\insertion sort Aziz\obj\Debug\InsertionSort.Form1.resources
+E:\ARTIFICIAL INTELLEGENCE\Semester -5\ALGORITHMS\insertion sort Aziz\obj\Debug\insertion_sort_Aziz.Properties.Resources.resources
+E:\ARTIFICIAL INTELLEGENCE\Semester -5\ALGORITHMS\insertion sort Aziz\obj\Debug\insertion sort Aziz.csproj.GenerateResource.cache
+E:\ARTIFICIAL INTELLEGENCE\Semester -5\ALGORITHMS\insertion sort Aziz\obj\Debug\insertion sort Aziz.csproj.CoreCompileInputs.cache
+E:\ARTIFICIAL INTELLEGENCE\Semester -5\ALGORITHMS\insertion sort Aziz\obj\Debug\insertion sort Aziz.csproj.CopyComplete
+E:\ARTIFICIAL INTELLEGENCE\Semester -5\ALGORITHMS\insertion sort Aziz\obj\Debug\insertion sort Aziz.exe
+E:\ARTIFICIAL INTELLEGENCE\Semester -5\ALGORITHMS\insertion sort Aziz\obj\Debug\insertion sort Aziz.pdb

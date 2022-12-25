@@ -32,6 +32,7 @@
             this.beforeSortedLBL = new MetroFramework.Controls.MetroLabel();
             this.metroTextBox1 = new MetroFramework.Controls.MetroTextBox();
             this.afterSortedLBL = new MetroFramework.Controls.MetroLabel();
+            this.mergeBTN = new MetroFramework.Controls.MetroButton();
             this.SuspendLayout();
             // 
             // InsertionSortBTN
@@ -96,17 +97,28 @@
             this.afterSortedLBL.ForeColor = System.Drawing.Color.Crimson;
             this.afterSortedLBL.Location = new System.Drawing.Point(103, 306);
             this.afterSortedLBL.Name = "afterSortedLBL";
-            this.afterSortedLBL.Size = new System.Drawing.Size(56, 25);
+            this.afterSortedLBL.Size = new System.Drawing.Size(123, 25);
             this.afterSortedLBL.TabIndex = 4;
-            this.afterSortedLBL.Text = "array";
+            this.afterSortedLBL.Text = "Sorted array:";
             this.afterSortedLBL.UseCustomForeColor = true;
             this.afterSortedLBL.UseStyleColors = true;
+            // 
+            // mergeBTN
+            // 
+            this.mergeBTN.Location = new System.Drawing.Point(516, 149);
+            this.mergeBTN.Name = "mergeBTN";
+            this.mergeBTN.Size = new System.Drawing.Size(102, 32);
+            this.mergeBTN.TabIndex = 5;
+            this.mergeBTN.Text = "merge";
+            this.mergeBTN.UseSelectable = true;
+            this.mergeBTN.Click += new System.EventHandler(this.mergeBTN_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.mergeBTN);
             this.Controls.Add(this.afterSortedLBL);
             this.Controls.Add(this.metroTextBox1);
             this.Controls.Add(this.beforeSortedLBL);
@@ -125,6 +137,7 @@
         private MetroFramework.Controls.MetroLabel beforeSortedLBL;
         private MetroFramework.Controls.MetroTextBox metroTextBox1;
         private MetroFramework.Controls.MetroLabel afterSortedLBL;
+        private MetroFramework.Controls.MetroButton mergeBTN;
     }
 }
 
